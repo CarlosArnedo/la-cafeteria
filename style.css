@@ -1,0 +1,21 @@
+.horas{
+    color: brown;
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+}
+
+.cafe{
+    text-align: center;
+}
+
+.contacto {
+
+    text-align: right;
+}
+
+.cont {
+    width: 225px;
+    height: 225px;
+}
